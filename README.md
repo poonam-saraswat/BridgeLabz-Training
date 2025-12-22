@@ -1,5 +1,6 @@
- WEEK 1: GETTING STARTED WITH JAVA BASICS(Control flow and Arrays)
- Timeline & Progress
+ ##WEEK 1: GETTING STARTED WITH JAVA BASICS(Control flow and Arrays)
+ 
+ #Timeline & Progress
 - **16-Dec-2025 (Tuesday)**  
   - Installed and set up Java environment  
   - Solved and submitted basic practice problems  
@@ -15,11 +16,13 @@
   - Studied Arrays documentation  
   - Solved and submitted Arrays Problem
  
-WEEK 2: METHOD AND STRINGS
-Timeline & Progress
+##WEEK 2: METHOD AND STRINGS
+
+#Timeline & Progress
 - **22-Dec-2025 (Monday)**
   - Studied Method and Strings documentation
   - Solved Level 1, 2, and 3 Practice Problems
+
 
 
 
