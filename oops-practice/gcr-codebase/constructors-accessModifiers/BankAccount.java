@@ -43,3 +43,23 @@ class BankAccount {
         System.out.println("Balance: $" + balance);
     }
 }
+class BankAccountTest {
+    public static void main(String[] args) {
+        // Creating a BankAccount object using parameterized constructor
+        BankAccount account = new BankAccount("123456789", "Alice Johnson", 1000.0);
+        
+        // Displaying account details
+        System.out.println("Bank Account Details:");
+        account.displayDetails();
+        
+        // Performing deposit
+        account.deposit(500.0);
+        
+        // Performing withdrawal
+        account.withdraw(200.0);
+        
+        // Displaying updated account details
+        System.out.println("Updated Bank Account Details:");
+        account.displayDetails();
+    }
+}
