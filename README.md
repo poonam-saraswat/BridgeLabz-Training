@@ -47,6 +47,11 @@
 - **31-Dec-2025 (Wednesday)**
  -  Studied constructors and access modifiers
  -  Solved related practice problems
-
+- **01-Jan-2026 (Thursday)**
+ -  Studied this, static, final key words and instanceof operator Content 
+ - Solved related Practice Problems
+- **02-Jan-2026(Friday)**
+ - Studied Material on Object Oriented Design Principles(Object Modeling)
+ - Solved Practice Problems on Class, Object and Sequence Diagrams
 
 
