@@ -80,3 +80,6 @@
 - **13-Jan-2026 (Tuesday)**
  - Studied Stack, Queue, HashMap and Hashing Function
  - Solved Related Practice Problems
+- **14-Jan-2026 (Wednesday)**
+ - Solved further practice problems on Stacks,  Queue, HashMap and Hashing Function
+ 
