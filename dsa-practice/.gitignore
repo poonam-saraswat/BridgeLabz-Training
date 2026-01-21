@@ -1,6 +1,0 @@
-# IDE and build folders
-bin/
-src/
-.vscode/
-.classpath
-.project
