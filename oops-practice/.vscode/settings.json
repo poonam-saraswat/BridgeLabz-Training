@@ -1,8 +1,0 @@
-{
-  "java.project.sourcePaths": [
-    "scenario-based",
-    "gcr-codebase",
-    "leetcode-codebase",
-    
-  ]
-}
