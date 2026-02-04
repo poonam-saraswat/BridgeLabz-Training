@@ -1,0 +1,5 @@
+[
+    {"Designation":"HR","EmployeeId":1,"EmployeeName":"Alice"},
+    {"Designation":"Software Engineer","EmployeeId":2,"EmployeeName":"Bob"},
+    {"Designation":"Marketing Intern","EmployeeId":3,"EmployeeName":"Olive"}
+]
