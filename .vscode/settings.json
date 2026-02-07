@@ -1,6 +1,6 @@
 {
     "java.project.sourcePaths": [
         "collections-practice/scenario-based",
-        "collections-practice/gcr-codebase/annotations-reflections"
+        "collections-practice/gcr-codebase"
     ]
 }
