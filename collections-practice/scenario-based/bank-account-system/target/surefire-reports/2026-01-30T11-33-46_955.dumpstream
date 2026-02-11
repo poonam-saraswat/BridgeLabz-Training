@@ -1,0 +1,5 @@
+# Created at 2026-01-30T11:33:47.277
+Boot Manifest-JAR contains absolute paths in classpath 'D:\study material\BridgeLabz-Training\collections-practice\scenario-based\bank-account-system\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
