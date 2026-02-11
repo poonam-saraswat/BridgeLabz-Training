@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: CalculatorTest
+Test set: ListOperationTest
 -------------------------------------------------------------------------------
-Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.047 s -- in CalculatorTest
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.008 s -- in ListOperationTest
