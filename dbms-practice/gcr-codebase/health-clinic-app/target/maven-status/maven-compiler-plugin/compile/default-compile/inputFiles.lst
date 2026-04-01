@@ -1,0 +1,15 @@
+D:\study material\BridgeLabz-Training\dbms-practice\gcr-codebase\health-clinic-app\src\main\java\database\DBConnection.java
+D:\study material\BridgeLabz-Training\dbms-practice\gcr-codebase\health-clinic-app\src\main\java\exception\ClinicException.java
+D:\study material\BridgeLabz-Training\dbms-practice\gcr-codebase\health-clinic-app\src\main\java\main\HealthClinicApp.java
+D:\study material\BridgeLabz-Training\dbms-practice\gcr-codebase\health-clinic-app\src\main\java\manager\AccessManager.java
+D:\study material\BridgeLabz-Training\dbms-practice\gcr-codebase\health-clinic-app\src\main\java\manager\AppointmentManager.java
+D:\study material\BridgeLabz-Training\dbms-practice\gcr-codebase\health-clinic-app\src\main\java\manager\BillingManager.java
+D:\study material\BridgeLabz-Training\dbms-practice\gcr-codebase\health-clinic-app\src\main\java\manager\DoctorManager.java
+D:\study material\BridgeLabz-Training\dbms-practice\gcr-codebase\health-clinic-app\src\main\java\manager\PatientManager.java
+D:\study material\BridgeLabz-Training\dbms-practice\gcr-codebase\health-clinic-app\src\main\java\manager\VisitManager.java
+D:\study material\BridgeLabz-Training\dbms-practice\gcr-codebase\health-clinic-app\src\main\java\model\Appointment.java
+D:\study material\BridgeLabz-Training\dbms-practice\gcr-codebase\health-clinic-app\src\main\java\model\Bill.java
+D:\study material\BridgeLabz-Training\dbms-practice\gcr-codebase\health-clinic-app\src\main\java\model\Doctor.java
+D:\study material\BridgeLabz-Training\dbms-practice\gcr-codebase\health-clinic-app\src\main\java\model\Patient.java
+D:\study material\BridgeLabz-Training\dbms-practice\gcr-codebase\health-clinic-app\src\main\java\model\Specialty.java
+D:\study material\BridgeLabz-Training\dbms-practice\gcr-codebase\health-clinic-app\src\main\java\model\Visit.java
