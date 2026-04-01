@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Alice",
+        "course": "B.tech",
+        "CGPA": 7.9
+    },
+    {
+        "name": "Bob",
+        "course": "BBA",
+        "CGPA": 8.2
+    },
+    {
+        "name": "Claude",
+        "course": "MBA",
+        "CGPA": 8.5
+    }
+]
