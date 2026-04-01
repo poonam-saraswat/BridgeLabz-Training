@@ -1,0 +1,15 @@
+manager\AppointmentManager.class
+manager\DoctorManager.class
+model\Visit.class
+manager\BillingManager.class
+manager\AccessManager.class
+model\Patient.class
+manager\PatientManager.class
+main\HealthClinicApp.class
+manager\VisitManager.class
+model\Appointment.class
+model\Specialty.class
+exception\ClinicException.class
+model\Doctor.class
+database\DBConnection.class
+model\Bill.class
