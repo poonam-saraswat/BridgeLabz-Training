@@ -26,13 +26,21 @@ This branch contains my **day‑wise solutions** for HackerRank practice problem
 - ✅ **SimpleArraySum.java**
 - ✅ **StringTokens.java**
 
-> Commit message: *Added Solutions of Hackerrank Java problems*  
+> Commit message: *Solutions of Arrays and String based problems*  
 > Status: Pushed to `Refresher-Training` branch
 
 ---
 
 ### Day‑2
-- 🚧 *(to be updated after session)*
+-  ✅ **BalancedBrackets.java**
+-  ✅ **EqualStacks.java**
+-  ✅ **QueueUsingStack.java**
+-  ✅ **TruckTour.java**
+-  ✅ **MaximumElement.java**
+
+> Commit message: *Solutions of Stack and Queue based problems*  
+> Status: Pushed to `Refresher-Training` branch
+
 
 ---
 
